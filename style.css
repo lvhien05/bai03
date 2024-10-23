@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400..900&display=swap');
+/* * {
+    text-align: center;
+    color: #C62E2E;
+} */
+
+h1 {
+    color: #000000;
+    background: #9C9797;
+    font-family: "Tektur", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+h2 {
+    color: #5B8183;
+}
+
+#test-b{
+    color: #5B8183;
+}
+
+.test-color {
+    color: #C62E2E;
+}
+
+h3, h4, h5{
+    text-align: center; 
+    color: #C62E2E;
+    background: #F4F6FF;
+}
